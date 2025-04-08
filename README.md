@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Mans 141!
 
 Welcome to my GitHub profile! I'm passionate about [your interests, e.g., web development, open source contributions, machine learning, etc.].
 
